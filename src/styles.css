@@ -1,0 +1,27 @@
+/* Add CSS styles for your components here */
+
+.vertical-menu {
+    width: 20px;
+    height: 100vh; /* Adjust the height as per your design */
+    background-color: #f0f0f0; /* Set the background color for the vertical menu */
+  
+    /* Optional: Add more styles to make the vertical menu look appealing */
+  }
+  
+  /* Style for the app icon */
+  .app-icon {
+    width: 40px; /* Adjust the width and height to fit your app icon */
+    height: 40px;
+    margin: 10px; /* Adjust the margin as needed for spacing */
+    background-color: #333; /* Set the background color for the app icon */
+    border-radius: 50%; /* To make the app icon circular, assuming it's square */
+  }
+  
+
+.main-area {
+/* Styles for the main work area (texting field) */
+}
+
+.side-bar {
+/* Styles for the side bar with configuration options and menus */
+}
